@@ -1,0 +1,6 @@
+.option_button:nth-child(2) {
+margin: 0 40px;
+}
+.option_container {
+    text-align: center;
+}
