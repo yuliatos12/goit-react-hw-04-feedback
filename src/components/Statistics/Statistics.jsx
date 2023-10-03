@@ -6,7 +6,7 @@ export const Statistics = ({ goodCounter, neutralCounter, badCounter, total, pos
             <ul>
                 <li>Good: {goodCounter}</li>
                 <li>Neutral: {neutralCounter}</li>
-                <li>Bed: {badCounter}</li>
+                <li>Bad: {badCounter}</li>
             </ul>
             <p>Total feedbacks: {total}</p>
             <p>Positive Feedbacks: {positivePercentage} %</p>
