@@ -11,7 +11,7 @@ export class Feedback extends Component {
         good: 0,
         neutral: 0,
         bad: 0
-    };
+    }; 
 
     handleFeedback = (option) => {
         this.setState(prevState => {
